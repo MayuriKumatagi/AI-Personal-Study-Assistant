@@ -21,19 +21,19 @@ AI Personal Study Assistant is a smart learning tool developed using Python and 
 ![Update Topic](./06_update_topic.png.png)
 
 ## 7. AI Topic Explanation
-![AI Topic Explanation](./08_ai_topic_explanation.png.png)
+![AI Topic Explanation](./07_ai_topic_explaination.png.png)
 
 ## 8. AI Chat Assistant
-![AI Chat](./09_ai_chat.png)
+![AI Chat](./08_ai_chat,png.png)
 
-## 09. AI Quiz Generator
-![AI Quiz](./10_ai_quiz.png)
+## 9. AI Quiz Generator
+![AI Quiz](./09_ai_quiz,png.png)
 
 ## 10. Study Planner
-![Study Planner](./11_study_planner.png.png)
+![Study Planner](./10_study_planner.png.png)
 
 ## 11. Progress Dashboard
-![Progress](./12_progress.png.png)
+![Progress](./11_progress.png.png)
 
 ## 12. PDF Export
-![PDF Export](./13_pdf_export.png.png)
+![PDF Export](./12_pdf_export.png.png)
